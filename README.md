@@ -2,6 +2,7 @@
 ---
 ### LAB_1 
 [Instructions](https://docs.google.com/document/d/1oPngqp0FCqxsq4ot5StpIl1qULJ6FDt_MJPUhfIz7Do/edit?usp=sharing)
+
 Write a program that prints your name, compiles and run it on the command line. Note that g++ command line examples are in an appendix at the end of the course notes.
 Write a program that reads in 2 numbers from standard input and goes in a loop, printing all those numbers on a single line. For example, given the input:
 2 5
@@ -87,6 +88,7 @@ https://en.wikipedia.org/wiki/Heron's_formula
 ---
 ### LAB_3 
 [Instructions](https://docs.google.com/document/d/1CEPY0TET-4erZ122Z_Po5M_wNqGvKQ7vCNt1LVVIDAo/edit?usp=sharing)
+
 int sum(int a, int b, int c)
 return the sum of three numbers
 example: a = 1, b = 2, c = 3 return 1 + 2 + 3
@@ -111,6 +113,7 @@ example a = 3, b = 5, return 5
 ---
 ### LAB_4 
 [Instructions](https://docs.google.com/document/d/170N6DQ_KvcCTuwsbLRhLkrCEKzP2Cp1QIeUSh8logF8/edit?usp=sharing)
+
 Write your arm code for 7 functions.
 void sub3(int a[], int len);
 	Given an array with integer elements, subtract 3 from every element in this array.
@@ -131,6 +134,7 @@ Note that: 1 byte for char
 ---
 ### LAB_5 
 [Instructions](https://docs.google.com/document/d/1p2QG9inrbtnyuMnTmpj2mHKEslaE_xtyS2Yx02Mcf4M/edit?usp=sharing)
+
 Write an assembler program in arm with two functions:
   choose()
   factorial()
