@@ -23,6 +23,7 @@ j
 ---
 ### Lab 2 
 [Instructions](https://docs.google.com/document/d/18pK74-B_NphYGGh554cBMsCf-L3W0d1yoSm5B0431CQ/edit?usp=sharing)
+
 Integer Problems
 int gcd(a,b);
 return the greatest common divisor of a and b. For example gcd(12,18) = 6, gcd(15,13)=1
