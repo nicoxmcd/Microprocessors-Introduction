@@ -19,6 +19,7 @@ the output should be:
 4 8 12 16 20
 5 10 15	20 25
 j
+
 ---
 ### LAB_2 
 [Instructions](https://docs.google.com/document/d/18pK74-B_NphYGGh554cBMsCf-L3W0d1yoSm5B0431CQ/edit?usp=sharing)
