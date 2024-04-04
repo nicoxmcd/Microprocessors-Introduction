@@ -1,6 +1,6 @@
 # CPE 390 Introduction to Microprocessors
 ---
-### Lab 1 
+### Lab 1 (multiplicationTable)
 [Instructions](https://docs.google.com/document/d/1oPngqp0FCqxsq4ot5StpIl1qULJ6FDt_MJPUhfIz7Do/edit?usp=sharing)
 
 Write a program that prints your name, compiles and run it on the command line. Note that g++ command line examples are in an appendix at the end of the course notes.
@@ -21,7 +21,7 @@ the output should be:
 j
 
 ---
-### Lab 2 
+### Lab 2 (mathFunctions)
 [Instructions](https://docs.google.com/document/d/18pK74-B_NphYGGh554cBMsCf-L3W0d1yoSm5B0431CQ/edit?usp=sharing)
 
 Integer Problems
