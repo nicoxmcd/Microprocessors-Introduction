@@ -1,6 +1,6 @@
 # CPE 390 Introduction to Microprocessors
----
-### Lab 1
+
+## Lab 1
 [Instructions](https://docs.google.com/document/d/1oPngqp0FCqxsq4ot5StpIl1qULJ6FDt_MJPUhfIz7Do/edit?usp=sharing)
 
 Write a program that prints your name, compiles and run it on the command line. Note that g++ command line examples are in an appendix at the end of the course notes.
@@ -20,8 +20,7 @@ the output should be:
 5 10 15	20 25
 j
 
----
-### Lab 2 
+## Lab 2 
 [Instructions](https://docs.google.com/document/d/18pK74-B_NphYGGh554cBMsCf-L3W0d1yoSm5B0431CQ/edit?usp=sharing)
 
 Integer Problems
@@ -87,8 +86,7 @@ double areaOfTriangle(x1,y1,x2,y2,x3,y3)
 return the area of a triangle using Heron’s formula
 https://en.wikipedia.org/wiki/Heron's_formula
 
----
-### Lab 3 
+## Lab 3 
 [Instructions](https://docs.google.com/document/d/1CEPY0TET-4erZ122Z_Po5M_wNqGvKQ7vCNt1LVVIDAo/edit?usp=sharing)
 
 int sum(int a, int b, int c)
@@ -113,8 +111,7 @@ int max(int a, int b);
 return the larger number
 example a = 3, b = 5, return 5
 
----
-### Lab 4 
+## Lab 4 
 [Instructions](https://docs.google.com/document/d/170N6DQ_KvcCTuwsbLRhLkrCEKzP2Cp1QIeUSh8logF8/edit?usp=sharing)
 
 Write your arm code for 7 functions.
@@ -134,8 +131,7 @@ eg:arr: {a,b,c,d,e} a -> a + 13
 after call sub3(arr, 5), arr should become: {n,o,p,q,r}
 Note that: 1 byte for char
 
----
-### Lab 5 
+## Lab 5 
 [Instructions](https://docs.google.com/document/d/1p2QG9inrbtnyuMnTmpj2mHKEslaE_xtyS2Yx02Mcf4M/edit?usp=sharing)
 
 Write an assembler program in arm with two functions:
